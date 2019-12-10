@@ -1,0 +1,9 @@
+```http
+POST /dropship/unitedif/query/queryDataByIfName_dynamic/0.0.1 HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Accept: application/json
+Host: sv-brood-dropship-host:9004
+Content-Length: 58
+
+{"params":{"id":"1"},"sys_name":"sv-brood-dropship-test3"}
+```

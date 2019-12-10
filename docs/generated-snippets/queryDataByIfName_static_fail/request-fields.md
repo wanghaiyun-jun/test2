@@ -1,0 +1,4 @@
+Path | Type | Description
+---- | ---- | -----------
+`sys_name` | `String` | 请求系统名称
+`params` | `Object` | 请求参数集

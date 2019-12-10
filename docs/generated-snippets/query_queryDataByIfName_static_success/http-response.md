@@ -1,0 +1,8 @@
+```http
+HTTP/1.1 200 OK
+Content-Disposition: inline;filename=f.txt
+Content-Type: application/json;charset=UTF-8
+Content-Length: 96
+
+{"resCd":"1","resMsg":"请求成功","data":[{"id":1,"name":"小王","sex":"女","score":96.0}]}
+```

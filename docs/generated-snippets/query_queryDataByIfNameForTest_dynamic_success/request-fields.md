@@ -1,0 +1,10 @@
+Path | Type | Description
+---- | ---- | -----------
+`limitEnable` | `Number` | 是否限制件数
+`limitCnt` | `Number` | 限制件数
+`dbName` | `String` | 数据库名称
+`sqlContent` | `String` | SQL内容
+`switchSql` | `Number` | sql类型
+`mainSql` | `String` | SQL主干
+`dynamicWhere` | `Array` | 动态where条件
+`params` | `Object` | 请求参数集

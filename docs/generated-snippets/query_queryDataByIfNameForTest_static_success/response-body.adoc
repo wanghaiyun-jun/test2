@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"resCd":"1","resMsg":"请求成功","data":[{"id":1,"name":"小王","sex":"女","score":93.0}]}
+----
